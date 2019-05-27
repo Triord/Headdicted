@@ -1,0 +1,26 @@
+[
+    {
+      "title":"Casquette Nike",
+      "price":"25.00"
+    },
+
+    {
+      "title":"Bonnet Adidas",
+      "price":"19.99"
+    },
+
+    {
+      "title":"Casque de boxe ",
+      "price":"24.99"
+    },
+
+    {
+      "title":"Casquette Champions",
+      "price":"49.99"
+    },
+
+    {
+      "title":"Bonnet classic",
+      "price":"9.99"
+    }
+]

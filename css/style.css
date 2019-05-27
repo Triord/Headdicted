@@ -1,0 +1,23 @@
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #000000;
+}
+
+.logbox{
+    margin: auto;
+    width: 25%;
+    padding-top: 10em;
+}
+
+.bgperso{
+  background-color: #ffffff;
+}
+.gitem_sheet
+{
+    background-color: black;
+}
