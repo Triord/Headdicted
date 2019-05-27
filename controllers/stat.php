@@ -5,5 +5,6 @@ if(empty($_SESSION['login']) or $_SESSION['role_id']!=1){
     header('Location: index');
     exit();
 }
-include 'views/sales_chart.php';
+$stats = getStat();
+echo json_encode($stats);
 ?>
